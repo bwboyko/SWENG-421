@@ -1,0 +1,16 @@
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\bin\Debug\net10.0-windows\DrawingProgram.exe
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\bin\Debug\net10.0-windows\DrawingProgram.deps.json
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\bin\Debug\net10.0-windows\DrawingProgram.runtimeconfig.json
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\bin\Debug\net10.0-windows\DrawingProgram.dll
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\bin\Debug\net10.0-windows\DrawingProgram.pdb
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.Form1.resources
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.csproj.GenerateResource.cache
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.AssemblyInfoInputs.cache
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.AssemblyInfo.cs
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.csproj.CoreCompileInputs.cache
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.dll
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\refint\DrawingProgram.dll
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.pdb
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\DrawingProgram.genruntimeconfig.cache
+C:\Users\bwboy\source\repos\DrawingProgram\DrawingProgram\obj\Debug\net10.0-windows\ref\DrawingProgram.dll
